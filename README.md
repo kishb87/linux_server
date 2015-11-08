@@ -1,4 +1,5 @@
-# Linux Server Configuration: Udacity Full Stack Nanodegree Project 5
+# Udacity Full Stack Nanodegree Project 5:
+# Linux Server Configuration
 
 ## PROJECT INFO
 
@@ -16,10 +17,6 @@ Server must be accessed using ssh at port 2200. The server ip is the following: 
 
 I used the following blog posts to help complete the project:
 
-https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04
-https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-ubuntu-12-04-and-centos-6
-https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
-
-
-
-
+* [Installing PostgreSQL on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04)
+* [Adding and Deleting Users on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-ubuntu-12-04-and-centos-6)
+* [Deploying A Flask Application on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
