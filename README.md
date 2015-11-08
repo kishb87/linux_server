@@ -1,5 +1,4 @@
-# Udacity Full Stack Nanodegree Project 5:
-# Linux Server Configuration
+# Udacity Full Stack Nanodegree Project 5: Linux Server Configuration
 
 ## PROJECT INFO
 
